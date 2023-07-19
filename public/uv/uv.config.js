@@ -2,7 +2,7 @@
 
 self.__uv$config = {
   prefix: "/uv/service/",
-  bare: "https://latest.n-e-t.name/bare/",
+  bare: "https://uvbare.onlycs.net",
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
   handler: "/uv/uv.handler.js",
